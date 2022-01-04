@@ -6,7 +6,7 @@ bench your pc then show your pc's dick
 
 # install
 ```bash
-cargo install --debug --path .
+cargo install --debug --git https://github.com/bruh-boys/dickfetch
 ```
 
 # uninstall
